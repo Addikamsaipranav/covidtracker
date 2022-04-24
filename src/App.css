@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+
+}
+
+
+.card{
+  
+  padding : 20px;
+  }
+
+.flex-container {
+  display: flex;
+  transition: width 2s, height 4s;
+  justify-content: center;
+  
+}
+.flex-container div{
+  border: 2px solid black;
+  padding: 20px;
+  margin: 2px 2px 2px 2px ;
+  border-radius: 5px;
+  box-shadow: 30px;
+  background-color: black;
+  color: white;
+  
+}
+  
+
+
